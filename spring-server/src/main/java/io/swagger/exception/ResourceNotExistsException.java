@@ -1,0 +1,1 @@
+package io.swagger.exception;public class ResourceNotExistsException extends Exception {    public ResourceNotExistsException(String s) {        super(s);    }}

@@ -1,0 +1,1 @@
+package io.swagger.exception;public class ResourceAlreadyExistsException extends Exception {    public ResourceAlreadyExistsException(String s) {        super(s);    }}

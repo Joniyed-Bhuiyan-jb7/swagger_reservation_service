@@ -23,7 +23,7 @@ public class SwaggerDocumentationConfig {
             .licenseUrl("http://seu.edu.bd")
             .termsOfServiceUrl("")
             .version("1.0.0")
-            .contact(new Contact(" = Md. Joniyed Bhuiyan","joniyed360.blogspot.com", "2017000000088@seu.edu.bd"))
+            .contact(new Contact(" = Md. Joniyed Bhuiyan","http://joniyed360.blogspot.com/", "2017000000088@seu.edu.bd"))
             .build();
     }
 

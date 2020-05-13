@@ -1,7 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88277a24-4b47-452b-bd7d-68962193611f" name="Default Changelist" comment="" />
+    <list default="true" id="88277a24-4b47-452b-bd7d-68962193611f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_github_joschi_jackson_jackson_datatype_threetenbp_2_6_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_2_17_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_orm_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_threeten_threetenbp_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.swagger-codegen-ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/.swagger-codegen/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/Swagger2SpringBoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/api/ApiException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/api/ApiOriginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/api/ApiResponseMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/api/NotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/api/ReservationsApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/api/RoomApiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/configuration/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/configuration/JacksonConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/exception/ResourceAlreadyExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/exception/ResourceNotExistsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/model/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/model/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/model/RoomType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/repository/ReservationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/repository/ReservationsApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/repository/RoomApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/repository/RoomRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/service/ReservationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/java/io/swagger/service/RoomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/swagger-spring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/Swagger2SpringBoot$ExitException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/Swagger2SpringBoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/api/ApiException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/api/ApiOriginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/api/ApiResponseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/api/NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/api/ReservationsApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/api/RoomApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$FromDecimalArguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer$FromIntegerArguments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/CustomInstantDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/JacksonConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/configuration/SwaggerDocumentationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/exception/ResourceAlreadyExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/exception/ResourceNotExistsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/model/Reservation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/model/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/model/RoomType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/repository/ReservationRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/repository/ReservationsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/repository/RoomApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/repository/RoomRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/service/ReservationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-server/target/classes/io/swagger/service/RoomService.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +180,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -42,12 +207,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/swagger/exception" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -83,6 +248,7 @@
       <workItem from="1589265175584" duration="10458000" />
       <workItem from="1589299498195" duration="8869000" />
       <workItem from="1589346495810" duration="1225000" />
+      <workItem from="1589359001763" duration="270000" />
     </task>
     <servers />
   </component>
@@ -102,46 +268,46 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1589273078423" />
-    <state width="1323" height="286" key="GridCell.Tab.0.bottom" timestamp="1589347747522">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1589359275111">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589347747522" />
-    <state width="1323" height="286" key="GridCell.Tab.0.center" timestamp="1589347747521">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589359275111" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1589359275110">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589347747521" />
-    <state width="1323" height="286" key="GridCell.Tab.0.left" timestamp="1589347747521">
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589359275110" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1589359275110">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589347747521" />
-    <state width="1323" height="286" key="GridCell.Tab.0.right" timestamp="1589347747522">
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589359275110" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1589359275111">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589347747522" />
-    <state width="1323" height="286" key="GridCell.Tab.1.bottom" timestamp="1589347747523">
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589359275111" />
+    <state width="1323" height="570" key="GridCell.Tab.1.bottom" timestamp="1589359275112">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589347747523" />
-    <state width="1323" height="286" key="GridCell.Tab.1.center" timestamp="1589347747522">
+    <state width="1323" height="570" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589359275112" />
+    <state width="1323" height="570" key="GridCell.Tab.1.center" timestamp="1589359275111">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1589347747522" />
-    <state width="1323" height="286" key="GridCell.Tab.1.left" timestamp="1589347747522">
+    <state width="1323" height="570" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1589359275111" />
+    <state width="1323" height="570" key="GridCell.Tab.1.left" timestamp="1589359275111">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1589347747522" />
-    <state width="1323" height="286" key="GridCell.Tab.1.right" timestamp="1589347747523">
+    <state width="1323" height="570" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1589359275111" />
+    <state width="1323" height="570" key="GridCell.Tab.1.right" timestamp="1589359275112">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="286" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1589347747523" />
+    <state width="1323" height="570" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1589359275112" />
     <state x="213" y="26" key="Maven.ArtifactSearchDialog" timestamp="1589266949059">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="213" y="26" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1589266949059" />
-    <state x="186" y="14" key="SettingsEditor" timestamp="1589270156240">
+    <state x="186" y="14" key="SettingsEditor" timestamp="1589359010939">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1589270156240" />
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1589359010939" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1589275229395">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

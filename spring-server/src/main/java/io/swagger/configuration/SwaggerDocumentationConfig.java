@@ -18,12 +18,12 @@ public class SwaggerDocumentationConfig {
     ApiInfo apiInfo() {
         return new ApiInfoBuilder()
             .title("Reservation Server")
-            .description("This is simple room reservation application")
-            .license("")
-            .licenseUrl("http://unlicense.org")
+            .description("This is simple room reservation application. In which a customer can reserve rooms, customer can know the details of rooms, etc")
+            .license("SouthEast University")
+            .licenseUrl("http://seu.edu.bd")
             .termsOfServiceUrl("")
             .version("1.0.0")
-            .contact(new Contact("","", "2017000000088@seu.edu.bd"))
+            .contact(new Contact(" = Md. Joniyed Bhuiyan","joniyed360.blogspot.com", "2017000000088@seu.edu.bd"))
             .build();
     }
 
